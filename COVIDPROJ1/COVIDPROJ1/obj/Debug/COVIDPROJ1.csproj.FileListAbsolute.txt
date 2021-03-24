@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\COVIDPROJ1\COVIDPROJ1\bin\Debug\COVIDPROJ1.pdb
+C:\Users\user\source\repos\COVIDPROJ1\COVIDPROJ1\obj\Debug\COVIDPROJ1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\COVIDPROJ1\COVIDPROJ1\obj\Debug\COVIDPROJ1.Form1.resources
+C:\Users\user\source\repos\COVIDPROJ1\COVIDPROJ1\obj\Debug\COVIDPROJ1.Form2.resources
+C:\Users\user\source\repos\COVIDPROJ1\COVIDPROJ1\obj\Debug\COVIDPROJ1.Properties.Resources.resources
+C:\Users\user\source\repos\COVIDPROJ1\COVIDPROJ1\obj\Debug\COVIDPROJ1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\COVIDPROJ1\COVIDPROJ1\obj\Debug\COVIDPROJ1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\COVIDPROJ1\COVIDPROJ1\obj\Debug\COVIDPROJ1.pdb
+C:\Users\user\source\repos\COVIDPROJ1\COVIDPROJ1\obj\Debug\COVIDPROJ1.Form3.resources
+C:\Users\user\source\repos\COVIDPROJ1\COVIDPROJ1\bin\Debug\COVIDPROJ1.exe.config
+C:\Users\user\source\repos\COVIDPROJ1\COVIDPROJ1\bin\Debug\COVIDPROJ1.exe
+C:\Users\user\source\repos\COVIDPROJ1\COVIDPROJ1\obj\Debug\COVIDPROJ1.exe
